@@ -40,6 +40,7 @@ This project is a custom integration for Monday.com, built using Node.js. It lis
 
 ## Folder Structure
 
+```text
 quickstart-integrations/
 │
 ├── src/
