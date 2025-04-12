@@ -53,6 +53,7 @@ quickstart-integrations/
 ├── .env (not committed)
 ├── package.json
 └── README.md
+```
 
 ---
 
